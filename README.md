@@ -30,4 +30,4 @@ I work at the intersection of:
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=akshz-dev&style=flat-square&color=111827)
+![Profile Views](https://komarev.com/ghpvc/?username=akshzdev&style=flat-square&color=111827)
