@@ -1,16 +1,12 @@
-## Hi, I'm Abhishek! 👋
+# Hi, I'm Abhishek! 👋
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/akshz">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshz)
 
 ---
 
 ## Overview
 
-Platform Engineer focused on building scalable distributed systems, self-service infrastructure, and automated developer workflows.
+Senior Platform Engineer focused on building scalable distributed systems, self-service infrastructure, and automated developer workflows.
 
 I work at the intersection of:
 
@@ -24,18 +20,14 @@ I work at the intersection of:
 
 ---
 
-
 ---
 
 ## Philosophy
 
-> Even the greatest was once a beginner. Don’t be afraid to take that first step.
-> Build systems that scale.  
-> Be curious: Ask- What, Why, How
+> Even the greatest was once a beginner. Don’t be afraid to take that first step. </br>
+> Build systems that scale. </br>
+> Be curious: Ask- What, Why, How </br>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=akshzdev&style=flat-square&color=111827" />
-</p>
-
+![Profile Views](https://komarev.com/ghpvc/?username=akshz-dev&style=flat-square&color=111827)
